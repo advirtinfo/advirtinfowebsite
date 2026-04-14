@@ -131,7 +131,7 @@ export default function ContactCTA() {
               </div>
               <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
                 <MapPin size={16} color="#6B7280" />
-                <span style={{ fontSize: '15px', color: '#9CA3AF' }}>Pimpri, Maharashtra</span>
+                <span style={{ fontSize: '15px', color: '#9CA3AF' }}>Pune, Maharashtra</span>
               </div>
             </div>
           </motion.div>

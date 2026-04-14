@@ -10,7 +10,7 @@ export const testimonials = [
     name: 'Priya Mehta',
     role: 'Head of Marketing',
     company: 'GrowthBank Financial',
-    stars: 5,
+    stars: 4,
     quote: "We've worked with several agencies. None came close to the transparency and ROI Advirt delivers. Their paid media team is exceptional.",
   },
   {
@@ -38,7 +38,7 @@ export const testimonials = [
     name: 'Meera Joshi',
     role: 'Co-Founder',
     company: 'EcoStart Ventures',
-    stars: 5,
+    stars: 3,
     quote: "We needed maximum impact on a tight budget. Advirt delivered exactly that. We've renewed every quarter since Day 1.",
   },
 ];

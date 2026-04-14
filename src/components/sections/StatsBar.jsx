@@ -7,7 +7,7 @@ import { stagger, fadeUp } from '../../lib/motion';
 const stats = [
   { target: 5, suffix: '+', label: 'Years Serving' },
   { target: 100, suffix: '+', label: 'Clients Served' },
-  { target: 95, suffix: '%', label: 'Retention Rate' },
+  { target: 78, suffix: '%', label: 'Retention Rate' },
   { target: 48, suffix: ' hrs', label: 'Avg. Response' },
 ];
 

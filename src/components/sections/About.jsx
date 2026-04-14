@@ -6,7 +6,7 @@ import { useScrollReveal } from '../../hooks/useScrollReveal';
 import { stagger, fadeUp } from '../../lib/motion';
 
 const proofPoints = [
-  'Founded in Pimpri, Maharashtra',
+  'Founded in Pune, Maharashtra',
   '100+ clients across India and beyond',
   'End-to-end — strategy through execution',
 ];

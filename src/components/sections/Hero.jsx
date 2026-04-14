@@ -99,12 +99,12 @@ export default function Hero() {
           <div>
             <motion.p
               className="eyebrow"
-              style={{ marginBottom: '24px', color: '#EA580C' }}
+              style={{ marginBottom: '24px',fontSize: '12px', color: '#EA580C' }}
               variants={fadeIn}
               initial="hidden"
               animate="visible"
             >
-              Digital Marketing Agency — Pimpri, India
+               Marketing Agency — Pune, India
             </motion.p>
 
             <div style={{ overflow: 'hidden' }}>
@@ -123,7 +123,7 @@ export default function Hero() {
                 animate="visible"
                 transition={{ delay: 0.1 }}
               >
-                We Build Brands
+                Your Success Is The
               </motion.h1>
               <motion.h1
                 className="hero-h1"
@@ -144,7 +144,7 @@ export default function Hero() {
                 animate="visible"
                 transition={{ delay: 0.2 }}
               >
-                That Mean Business.
+                Only Metric We Track.
               </motion.h1>
             </div>
 
@@ -197,7 +197,7 @@ export default function Hero() {
               animate="visible"
               transition={{ delay: 0.65 }}
             >
-              {['5+ Years', '100+ Clients', '95% Retention Rate'].map((item) => (
+              {['5+ Years', '100+ Clients', '78% Retention Rate'].map((item) => (
                 <span key={item} style={{ display: 'flex', alignItems: 'center', gap: '4px', fontSize: '13px', color: '#6B7280' }}>
                   <Check size={14} color="#EA580C" strokeWidth={2.5} />
                   {item}

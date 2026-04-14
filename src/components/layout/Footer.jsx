@@ -99,7 +99,7 @@ export default function Footer() {
           <div>
             <p style={{ fontSize: '12px', textTransform: 'uppercase', letterSpacing: '0.1em', color: '#4B5563', marginBottom: '16px', fontWeight: '600' }}>Contact</p>
             <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
-              {['advirt.in@gmail.com', '+91 98765 43210', 'Pimpri, Maharashtra, India'].map((item) => (
+              {['advirt.in@gmail.com', '+91 98765 43210', 'Pune, Maharashtra, India'].map((item) => (
                 <li key={item} style={{ fontSize: '14px', color: '#6B7280', lineHeight: '2.2' }}>{item}</li>
               ))}
             </ul>
